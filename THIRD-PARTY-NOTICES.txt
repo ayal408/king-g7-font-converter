@@ -1,0 +1,8 @@
+This distribution includes FontTools 4.68.0, licensed under the MIT License.
+https://github.com/fonttools/fonttools
+
+It was packaged with PyInstaller 6.22.3. PyInstaller is licensed under
+GPL-2.0-or-later with a special exception allowing distribution of bundled programs.
+https://pyinstaller.org/
+
+
