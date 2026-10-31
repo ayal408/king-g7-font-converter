@@ -4,6 +4,12 @@
 
 התוכנה ממירה קובצי `.ttf`, `.otf` ו-`.ttc` לפורמט `.lib` / SFON שבו משתמש המכשיר.
 
+## הורדה
+
+- [הורדת החבילה המלאה כ-ZIP](https://github.com/ayal408/king-g7-font-converter/releases/download/v1.0.0/KING-G7-Font-Converter.zip)
+- [הורדת קובץ ההפעלה בלבד](https://github.com/ayal408/king-g7-font-converter/releases/download/v1.0.0/KingG7FontConverter.exe)
+- [עמוד גרסה v1.0.0](https://github.com/ayal408/king-g7-font-converter/releases/tag/v1.0.0)
+
 ## שימוש
 
 1. הורידו את `KingG7FontConverter.exe`.
@@ -18,6 +24,7 @@
 
 - `king_g7_font_converter_gui.py` — הממשק הגרפי.
 - `ttf_to_king_lib.py` — מנוע ההמרה.
+- `.github/workflows/build-release.yml` — בנייה אוטומטית ל-Windows ופרסום Release.
 
 ## הערות
 
